@@ -3,7 +3,6 @@ import math
 
 # 7.3.1
 class RationalError(ZeroDivisionError):
-    """Виняток, що виникає при спробі створити Rational з нульовим знаменником"""
     pass
 
 
